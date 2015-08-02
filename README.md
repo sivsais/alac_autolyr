@@ -14,7 +14,7 @@ This program will automatically search for the **Lyrics** of the song online the
     * `$ sudo pip install BeautifulSoup`
 * Download the archive and extract the `.py` file wherever you have your song collections.
 * Open the terminal in that directory
-* Type `$ python alac_autolyr.py [-R] <file or directory name`
+* Type `$ python alac_autolyr.py [-R] <file or directory name>`
 * Wait for it to complete
 
 ####Side Note:
