@@ -1,2 +1,0 @@
-eyeD3==0.7.5
-beautifulsoup4==4.3.2
